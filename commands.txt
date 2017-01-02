@@ -1,0 +1,4 @@
+Comandos para Linux
+
+RENOMBRAR UNA CARPETA
+mv /home/user/oldname /home/user/newname
